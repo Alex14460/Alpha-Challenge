@@ -5,3 +5,6 @@ You are looking through an old version of the OpenZeppelin implementation of ERC
 - a) Describe the vulnerability and the payoffs for an attacker.
 - b)  Produce code that can check if this vulnerability has occurred in the past and determine how much value was lost, if any.
 - c)  Write code for the bot that can carry out the exploit (don’t worry about returning user funds).
+
+
+Hack info: https://mixbytes.io/blog/overview-of-the-inflation-attack
